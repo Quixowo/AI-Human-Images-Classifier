@@ -42,9 +42,3 @@ The model was trained on the **[AI vs Human Generated Dataset](https://www.kaggl
 <p align="left">
   <img src="https://github.com/user-attachments/assets/90f46939-ac3a-46b5-b695-9d0749d33009" width="500" title="Confusion Matrix">
 </p>
-    <td width="50%" valign="middle" align="center" style="border: none;">
-      <h3>Confusion Matrix</h3>
-      <img src="https://github.com/user-attachments/assets/90f46939-ac3a-46b5-b695-9d0749d33009" width="100%" alt="Confusion Matrix">
-    </td>
-  </tr>
-</table>
