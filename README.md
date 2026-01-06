@@ -42,3 +42,15 @@ The model was trained on the **[AI vs Human Generated Dataset](https://www.kaggl
 <p align="left">
   <img src="https://github.com/user-attachments/assets/90f46939-ac3a-46b5-b695-9d0749d33009" width="500" title="Confusion Matrix">
 </p>
+
+## 💻 How to Run
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/your-username/AI-vs-Real-Image-Detector.git](https://github.com/your-username/AI-vs-Real-Image-Detector.git)
+    ```
+2.  **Install dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+3.  **Run the notebook:**
+    Open `classifier.ipynb` in Jupyter or Google Colab to see the training pipeline and run inference on new images.
