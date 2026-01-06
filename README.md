@@ -25,9 +25,9 @@ This project addresses this problem by building a **binary classification model*
 
 ## Dataset
 The model was trained on the **[AI vs Human Generated Dataset](https://www.kaggle.com/datasets/alessandrasala79/ai-vs-human-generated-dataset)** sourced from Kaggle.
-* **Total Images:** [80,000 (60,000 training and 20,000 validation)]
-* **Split:** [e.g., 50% Real / 50% AI-Generated]
-* **Resolution:** Resized to [e.g., 224x224] for MobileNetV3 input.
+* **Total Images:** 80,000 (60,000 training and 20,000 validation)
+* **Split:** 50% Real / 50% AI-Generated
+* **Resolution:** Resized to 224x224 for MobileNetV3 input.
 
 ## Results
 The model achieves exceptional performance, making it suitable for real-world screening applications.
