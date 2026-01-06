@@ -30,7 +30,6 @@ The model was trained on the **[AI vs Human Generated Dataset](https://www.kaggl
 * **Resolution:** Resized to 224x224 for MobileNetV3 input.
 
 ## Results
-The model achieves exceptional performance, making it suitable for real-world screening applications.
 
 | Metric | Score |
 | :--- | :--- |
