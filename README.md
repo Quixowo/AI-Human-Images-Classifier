@@ -11,7 +11,7 @@ With the rapid rise of Generative Adversarial Networks (GANs) and Diffusion mode
 
 This project addresses this problem by building a **binary classification model** capable of detecting AI-generated artifacts. By leveraging **Transfer Learning** on the **MobileNetV3** architecture, the solution achieves high accuracy while remaining lightweight enough for edge deployment (e.g., mobile apps or browser plugins).
 
-[SEE THE DEMO!](https://example.com](https://huggingface.co/spaces/quixowo/ai-vs-real-image-detector)
+TRY THE MODEL OUT! -> https://example.com](https://huggingface.co/spaces/quixowo/ai-vs-real-image-detector
 
 ## Key Features
 * **Transfer Learning:** Utilizes pre-trained weights from ImageNet to accelerate convergence.
