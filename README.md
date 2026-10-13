@@ -33,7 +33,8 @@ The model was trained on the **[AI vs Human Generated Dataset](https://www.kaggl
 
 | Metric | Score |
 | :--- | :--- |
-| **Accuracy** | **99.5%** |
+| **Accuracy** | **99%** |
+| **AUC** | **99.9%** |
 | **Precision** | 99.3% |
 | **Recall** | 99.4% |
 | **F1-Score** | 99.4% |
